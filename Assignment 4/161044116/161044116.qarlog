@@ -1,0 +1,56 @@
+Quartus II Archive log --	C:/Users/TOPRAK/Documents/Toprak_Tuba_161044116_hw4/161044116.qarlog
+
+Archive:	C:/Users/TOPRAK/Documents/Toprak_Tuba_161044116_hw4/161044116.qar
+Date:		Sun Jan 09 19:51:10 2022
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/MiniMIPS.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/MiniMIPS_testbench.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/add32.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/alu32.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/alu_control.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/alucontrol_testbench.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/and_32.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/assignment_defaults.qdf
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/buf_inst_testbench.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/buf_instruction.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/control_unit.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/controlunit_testbench.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/data_memory.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/db/project03.db_info
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/full_adder.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/half_adder.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/incremental_db/compiled_partitions/project03.db_info
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/mips_registers.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/mux2x1.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/mux2x1_32.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/mux2x1_5.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/mux3x1_testbench.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/mux8x1.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/nor_32.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/or_32.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/project03.qpf
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/project03.qsf
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/reg_block.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/sign_extend.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/simulation/modelsim/data.mem
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/simulation/modelsim/data.txt
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/simulation/modelsim/register_data_out.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/simulation/modelsim/registers.mem
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/singextend_testbench.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/slt32.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/sub32.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/xor_32.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/zero_extend.v
+C:/Users/TOPRAK/Desktop/Yeni klasör/DraftForHW4_restored/zeroextend_testbench.v
+	======= Total: 39 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Jan 09 19:51:51 2022
+Source archive file:	C:/Users/TOPRAK/Documents/161044116/161044116.qar
+Archive was extracted into	C:/Users/TOPRAK/Documents/161044116/161044116_restored/
+		 - successfully.
